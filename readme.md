@@ -10,7 +10,8 @@ The purpose of this app is to help travellers figure out what the weather could 
 
 -Javascript
 
-## Screenshots
+## Deployed Link
+ https://abdisalamhassan.github.io/WeatherTime/
 
 
 ## Created By
