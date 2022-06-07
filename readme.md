@@ -3,7 +3,11 @@ The purpose of this app is to help travellers figure out what the weather could 
 
 ## Technologies Used
 -HTML
+
+
 -CSS
+
+
 -Javascript
 
 ## Screenshots
