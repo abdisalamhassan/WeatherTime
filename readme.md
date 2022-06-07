@@ -10,7 +10,7 @@ The purpose of this app is to help travellers figure out what the weather could 
 
 -Javascript
 
-## Screenshots
+## Deployed Link
 
 
 ## Created By
